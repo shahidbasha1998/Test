@@ -1,0 +1,1 @@
+{"data_columns": ["patient_age", "time_for_sample_collection_mm", "lab_location_km", "time_taken_to_reach_lab_mm", "female", "male", "acute kidney profile", "cbc", "complete urinalysis", "fasting blood sugar", "h1n1", "hba1c", "lipid profile", "rtpcr", "tsh", "vitamin d-25hydroxy", "advanced", "normal", "daily", "sample by 5pm", "high traffic", "low traffic", "medium traffic"]}
